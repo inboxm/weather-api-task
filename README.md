@@ -1,0 +1,3 @@
+- https://www.loom.com/share/df53c0c242c34dfd80cc10731b9ac583
+- https://open-meteo.com/en/docs/historical-weather-api
+- Gesucht: Wetter am Standort für das Datum: 05.07.2024
